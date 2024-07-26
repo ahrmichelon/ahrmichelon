@@ -43,4 +43,5 @@ Tenho experiência em análise e transformação de dados econômicos e financei
 ### 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/alanhrm)
+- [WhatsApp](https://wa.me/5511994655249)
   
