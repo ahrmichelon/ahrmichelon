@@ -1,41 +1,41 @@
 ## Alan H. Ribeiro Michelon
 
-### Financial Analysis and Strategy | CRC, ACCA 
+### Financial Analysis and Strategy | CRC, ACCA
 
-👋 Olá! Sou Alan Michelon, um contador experiente com mais de 10 anos de atuação em consultoria, liderando equipes multidisciplinares em projetos de Parcerias Público-Privadas (PPP) e infraestrutura. Minha carreira abrange diversos setores, incluindo agronegócio, tecnologia da informação, bens de consumo, construção e eletricidade. Sou certificado pelo CRC e ACCA, o que valida minha competência e qualificações nas áreas de contabilidade e finanças.
+👋 Hi! I'm Alan Michelon, an experienced accountant with over 10 years of experience in consulting, leading multidisciplinary teams in Public-Private Partnerships (PPP) and infrastructure projects. My career spans various sectors, including agribusiness, information technology, consumer goods, construction, and electricity. I am certified by CRC and ACCA, which validate my expertise and qualifications in accounting and finance.
 
-Tenho experiência em análise e transformação de dados econômicos e financeiros, utilizando linguagens de programação como Python e R. Desenvolvo modelos de análise financeira, automação de relatórios e visualização de dados para suportar decisões estratégicas e operacionais. Meu objetivo é contribuir para o desenvolvimento de soluções inovadoras e sustentáveis para os desafios enfrentados por setores público e privado, sempre buscando aprender, compartilhar conhecimento e nutrir talentos.
+I have experience in analyzing and transforming economic and financial data using programming languages such as Python and R. I develop financial analysis models, automate reports, and create data visualizations to support strategic and operational decision-making. My goal is to contribute to the development of innovative and sustainable solutions for challenges faced by both the public and private sectors, always striving to learn, share knowledge, and nurture talents.
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
 - **Vulpini Consultoria** - Accountant
-  - Gestão de estudos de mercado e viabilidade financeira de projetos de PPP e concessão de infraestrutura.
-  - Participação em estudos estratégicos para instituições públicas e privadas.
+  - Managed market studies and financial feasibility of PPP and infrastructure concession projects.
+  - Participated in strategic studies for public and private institutions.
 
 - **EY** - Manager
-  - Condução de modelagem econômico-financeira e estudos de viabilidade.
-  - Gerenciamento de equipes e prospecção de clientes.
+  - Led economic-financial modeling and feasibility studies.
+  - Managed teams and client prospecting.
 
 - **BDO Brazil** - Consultant
-  - Participação na reestruturação de metodologias de Due Diligence e consultoria financeira em processos de M&A.
+  - Participated in the restructuring of Due Diligence methodologies and financial consulting in M&A processes.
 
-### 🔧 Habilidades
+### 🔧 Skills
 
-- **Análise Financeira**: Planejamento estratégico, estudos de viabilidade, gestão financeira.
-- **Gestão de Projetos**: Coordenação de equipes multidisciplinares, implementação de melhorias e controles.
-- **Auditoria**: Due Diligence, consultoria em processos de compra e venda de empresas.
-- **Análise e Transformação de Dados**: Experiência em análise e transformação de dados econômicos e financeiros utilizando linguagens de programação como Python e R. Desenvolvo modelos de análise financeira, automação de relatórios e visualização de dados para suportar decisões estratégicas e operacionais.
+- **Financial Analysis**: Strategic planning, feasibility studies, financial management.
+- **Project Management**: Coordination of multidisciplinary teams, implementation of improvements and controls.
+- **Audit**: Due Diligence, consulting in company acquisition and sale processes.
+- **Data Analysis and Transformation**: Experience in analyzing and transforming economic and financial data using programming languages such as Python and R. I develop financial analysis models, automate reports, and create data visualizations to support strategic and operational decision-making.
 
-### 🌍 Idiomas
+### 🌍 Languages
 
-- Português (Nativo)
-- Inglês (Fluente)
+- Portuguese (Native)
+- English (Fluent)
 
-### 📚 Formação Acadêmica
+### 📚 Education
 
-- **Bacharelado em Ciências Contábeis**, Pontifícia Universidade Católica de São Paulo
+- **Bachelor's Degree in Accounting**, Pontifical Catholic University of São Paulo
 
-### 📜 Certificações
+### 📜 Certifications
 
 - CRC
 - ACCA
@@ -44,4 +44,3 @@ Tenho experiência em análise e transformação de dados econômicos e financei
 
 - [LinkedIn](https://www.linkedin.com/in/alanhrm)
 - [WhatsApp](https://wa.me/5511994655249)
-  
